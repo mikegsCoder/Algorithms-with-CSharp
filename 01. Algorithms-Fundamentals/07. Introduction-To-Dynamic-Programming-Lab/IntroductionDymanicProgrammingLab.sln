@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. SubsetSumProblemWithoutRepetitions", "02. SubsetSumProblem\02. SubsetSumProblemWithoutRepetitions.csproj", "{3E0F9EDA-7CB0-441E-A086-3567E0BBE6D9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. SubsetSumProblemWithRepetitions", "03. SubsetSumProblemWithRepetitions\03. SubsetSumProblemWithRepetitions.csproj", "{1E88DA0F-287D-4894-B0B2-3E02720D8128}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. MoveDownRight", "04. MoveDownRight\04. MoveDownRight.csproj", "{B449185E-55BE-45AA-BD91-A9607DD21CF4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. LongestCommonSubsequence", "05. LongestCommonSubsequence\05. LongestCommonSubsequence.csproj", "{D8163B68-6570-41E7-8D09-8A0DF91877B6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. LongestCommonSubsequence_v2", "06. LongestCommonSubsequence_v2\06. LongestCommonSubsequence_v2.csproj", "{C2C56D6A-951D-475C-B80D-F76C0723BEC7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Fibonacci", "01. Fibonacci\01. Fibonacci.csproj", "{958FFAAD-827F-4FE6-8D84-585F0695EA94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E0F9EDA-7CB0-441E-A086-3567E0BBE6D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E0F9EDA-7CB0-441E-A086-3567E0BBE6D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E0F9EDA-7CB0-441E-A086-3567E0BBE6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E0F9EDA-7CB0-441E-A086-3567E0BBE6D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E88DA0F-287D-4894-B0B2-3E02720D8128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E88DA0F-287D-4894-B0B2-3E02720D8128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E88DA0F-287D-4894-B0B2-3E02720D8128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E88DA0F-287D-4894-B0B2-3E02720D8128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B449185E-55BE-45AA-BD91-A9607DD21CF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B449185E-55BE-45AA-BD91-A9607DD21CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B449185E-55BE-45AA-BD91-A9607DD21CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B449185E-55BE-45AA-BD91-A9607DD21CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8163B68-6570-41E7-8D09-8A0DF91877B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8163B68-6570-41E7-8D09-8A0DF91877B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8163B68-6570-41E7-8D09-8A0DF91877B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8163B68-6570-41E7-8D09-8A0DF91877B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2C56D6A-951D-475C-B80D-F76C0723BEC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2C56D6A-951D-475C-B80D-F76C0723BEC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2C56D6A-951D-475C-B80D-F76C0723BEC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2C56D6A-951D-475C-B80D-F76C0723BEC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{958FFAAD-827F-4FE6-8D84-585F0695EA94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958FFAAD-827F-4FE6-8D84-585F0695EA94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{958FFAAD-827F-4FE6-8D84-585F0695EA94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958FFAAD-827F-4FE6-8D84-585F0695EA94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EE776F2-54B6-4F98-A048-37F02ECF725D}
+	EndGlobalSection
+EndGlobal
