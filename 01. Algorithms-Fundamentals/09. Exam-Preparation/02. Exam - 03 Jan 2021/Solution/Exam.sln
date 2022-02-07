@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TBC", "TBC\TBC.csproj", "{A55D4A4A-9747-4B97-8721-CBBC9236A129}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Socks", "Socks\Socks.csproj", "{53709635-C435-4EE1-AD3A-A041F9A3F36B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathFinder", "PathFinder\PathFinder.csproj", "{161E35D9-8413-495E-A587-AFA2811AA0E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A55D4A4A-9747-4B97-8721-CBBC9236A129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A55D4A4A-9747-4B97-8721-CBBC9236A129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A55D4A4A-9747-4B97-8721-CBBC9236A129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A55D4A4A-9747-4B97-8721-CBBC9236A129}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53709635-C435-4EE1-AD3A-A041F9A3F36B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53709635-C435-4EE1-AD3A-A041F9A3F36B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53709635-C435-4EE1-AD3A-A041F9A3F36B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53709635-C435-4EE1-AD3A-A041F9A3F36B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{161E35D9-8413-495E-A587-AFA2811AA0E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{161E35D9-8413-495E-A587-AFA2811AA0E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{161E35D9-8413-495E-A587-AFA2811AA0E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{161E35D9-8413-495E-A587-AFA2811AA0E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C839BB75-7066-4E93-8C2B-6A7F949E4A6D}
+	EndGlobalSection
+EndGlobal
